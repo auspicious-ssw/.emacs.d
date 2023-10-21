@@ -1,0 +1,14 @@
+auto-save-list/
+.cache/
+elpa-29.1/
+snippets/
+transient/
+elpa/
+site-lisp/
+tutorial/
+recentf
+projectile-bookmarks.eld
+custom.el
+history
+*.el~
+
