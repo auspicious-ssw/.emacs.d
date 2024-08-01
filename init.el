@@ -25,8 +25,8 @@
 (require 'init-flycheck)
 (require 'init-helm)
 (require 'init-projectile)
-(require 'init-libvterm)
-(require 'init-edwina)
+(require 'init-git)
+
 
 (provide 'init)
 ;;; init.el ends here

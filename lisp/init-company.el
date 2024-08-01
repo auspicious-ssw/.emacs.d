@@ -16,5 +16,8 @@
         company-minimum-prefix-length 1     ; 至少几个字符后开始补全
         ))
 
+(use-package company-box
+  :hook (company-mode . company-box-mode))
+
 (provide 'init-company)
 ;;; init-company.el ends here
