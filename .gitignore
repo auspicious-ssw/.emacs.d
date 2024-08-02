@@ -8,7 +8,9 @@ site-lisp/
 tutorial/
 recentf
 projectile-bookmarks.eld
+projects
 custom.el
 history
+tramp
 *.el~
 

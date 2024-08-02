@@ -4,7 +4,8 @@
 
 ;;; Code:
 
-(use-package magit)
+(use-package magit
+  :bind (("C-x g" . magit)))
 
 (provide 'init-git)
 ;;; init-git.el ends here

@@ -26,7 +26,7 @@
 (require 'init-helm)
 (require 'init-projectile)
 (require 'init-git)
-
+(require 'init-treemacs)
 
 (provide 'init)
 ;;; init.el ends here
